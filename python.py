@@ -1,5 +1,2 @@
 print('nilima')
-print('bandurkar')
-print('kkk')
-print('dfjdfj')
-print('ssss')
+print('python')
